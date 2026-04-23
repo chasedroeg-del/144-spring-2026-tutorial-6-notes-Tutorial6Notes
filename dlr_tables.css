@@ -48,6 +48,13 @@ background: black;
 color: white;
 }
 
+table.schedule thead tr {
+   height:30px;
+}
+table.schedule tbody tr {
+   height:40px;
+}
+
 /* Column Group Styles */
 col#first Col{
    background: rgb(218, 210, 218);
